@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismael AlShabrawy
+- 👋 Hi, I’m Ismael AlShabrawy
 - 👀 I’m interested in Mobile Development.
 - 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on open source
